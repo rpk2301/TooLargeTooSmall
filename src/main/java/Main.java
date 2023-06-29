@@ -15,7 +15,7 @@ public class Main {
         int number = rand.nextInt(50);
         Scanner scan = new Scanner(System.in);
 
-5
+
         boolean correct = false;
         while (correct == false)
         {
